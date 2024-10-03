@@ -47,7 +47,7 @@ To set up the project:
 ![composerTasks](ComposerState.png)
 
 ## Star Schema for the Daily Data
-![schema](schema.png)
+![schema](schema.jpg)
 
 ## Power BI Dashboards
 
