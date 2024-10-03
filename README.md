@@ -37,35 +37,33 @@ To set up the project:
 - **Power BI**: Data visualization
 
 ## VMs and Clusters Used in the Project
-![VMS](VMs.png)
+![VMS](/images/VMs.png)
 
 ## Dataproc Job Running and loading Data to BigQuery
-![dataproc_job](job.png)
+![dataproc_job](/images/job.png)
 
 ## Cloud Composer 
-![composerTasks](composerDiagram.png)
-![composerTasks](ComposerState.png)
+![composerTasks](/images/composerDiagram.png)
+![composerTasks](/images/ComposerState.png)
 
 ## Star Schema for the Daily Data
-![schema](schema.jpg)
+![schema](/images/schema.jpg)
 
 ## Power BI Dashboards
 
 ### Dashboard 1: Real-Time Stock Data Overview
-![Real-Time Stock Data](HFT1.png)
+![Real-Time Stock Data](/images/HFT1.png)
 
-![Real-Time Stock Data](HFT2.png)
+![Real-Time Stock Data](/images/HFT2.png)
 
 While using the tooltips:
-![Real-Time Stock Data](HFT1_Tooltip.png)
+![Real-Time Stock Data](/images/HFT1_Tooltip.png)
 
-![Real-Time Stock Data](HFT2_Tooltip.png)
+![Real-Time Stock Data](/images/HFT2_Tooltip.png)
 
 ### Dashboard 2: Daily Stock Data for Value Investors
-![Daily Stock Data](ValueInvestors1.png)
+![Daily Stock Data](/images/ValueInvestors1.png)
 
-![Daily Stock Data](ValueInvestors2.png)
+![Daily Stock Data](/images/ValueInvestors2.png)
 
-![Daily Stock Data](ValueInvestors3.png)
-
-
+![Daily Stock Data](/images/ValueInvestors3.png)
