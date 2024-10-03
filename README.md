@@ -13,6 +13,8 @@ The pipeline is built using the following components:
 - **Elasticsearch & Kibana**: Monitors system performance and logs, visualized via Kibana.
 - **Power BI**: Used to visualize the data, with DirectQuery for live updates.
 
+![Project Architecture](Project Architecture.png)
+
 ## Setup Instructions
 To set up the project:
 1. **Airflow**: Configure Airflow to run a DAG that triggers Python scripts for fetching data from Yahoo Finance.
