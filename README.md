@@ -34,5 +34,3 @@ To set up the project:
 - **Elasticsearch & Kibana**: Monitoring and log visualization
 - **Power BI**: Data visualization
 
-## Screenshots (Optional)
-![Architecture Diagram](Project Architecture.png)
