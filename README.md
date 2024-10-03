@@ -14,6 +14,7 @@ The pipeline is built using the following components:
 - **Power BI**: Used to visualize the data, with DirectQuery for live updates.
 
 ![Project Architecture](Project Architecture.jpg)
+![# Orders by Order Date](Project Architecture.jpg)
 
 ## Setup Instructions
 To set up the project:
