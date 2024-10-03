@@ -66,7 +66,6 @@ While using the tooltips:
 
 ![Daily Stock Data](ValueInvestors2.png)
 
-![Daily Stock Data](ValueInvestors13.png)
+![Daily Stock Data](ValueInvestors3.png)
 
-![Daily Stock Data](daily_stock_dashboard.png)
 
