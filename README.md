@@ -13,7 +13,7 @@ The pipeline is built using the following components:
 - **Elasticsearch & Kibana**: Monitors system performance and logs, visualized via Kibana.
 - **Power BI**: Used to visualize the data, with DirectQuery for live updates.
 
-![Project Architecture](Project Architecture.png)
+![Project Architecture](Project Architecture.jpg)
 
 ## Setup Instructions
 To set up the project:
