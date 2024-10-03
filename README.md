@@ -13,7 +13,7 @@ The pipeline is built using the following components:
 - **BigQuery**: Stores both real-time and daily data for analysis and visualization.
 - **Elasticsearch & Kibana**: Monitors Kafka system performance and logs, visualized via Kibana.
 - **Power BI**: Used to visualize the data, with DirectQuery for live updates.
-![Project Architecture](Project%20Architecture.jpg)
+![Project Architecture](/images/Project%20Architecture.png)
 
 ## Setup Instructions
 To set up the project:
