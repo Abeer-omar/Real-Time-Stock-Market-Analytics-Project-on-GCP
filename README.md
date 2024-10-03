@@ -1,7 +1,5 @@
 # Real-Time Stock Market Analytics Project on GCP
 
-# Stock Market Data Pipeline on GCP
-
 ## Description
 This project implements a real-time and batch data pipeline for stock market data using Google Cloud Platform (GCP) services. The pipeline fetches stock data from the Yahoo Finance API and processes it using Apache Kafka, PySpark, and BigQuery. The project aims to provide data for both high-frequency traders and value investors, with live updates and daily reports.
 
@@ -37,4 +35,4 @@ To set up the project:
 - **Power BI**: Data visualization
 
 ## Screenshots (Optional)
-![Architecture Diagram](link_to_diagram.png)
+![Architecture Diagram](Project Architecture.png)
